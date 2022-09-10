@@ -1,0 +1,18 @@
+.card{
+    border: 5px solid rgba(95, 95, 95, 0.515);
+    width:300px;
+    padding: 10px 30px;
+    margin: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 18px;
+}
+.card_imag{
+    border-radius: 180px;
+     width:100%;
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
